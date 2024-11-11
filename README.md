@@ -183,8 +183,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME: AARON RAJESH R
-REG NO:212223100001
+NAME: Nishanth J
+REG NO:212223100040
 ```
 main.c
 ```
